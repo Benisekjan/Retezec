@@ -1,0 +1,3 @@
+C:/Users/janik/Desktop/Retezec/cmake-build-debug/CMakeFiles/Retezec.dir
+C:/Users/janik/Desktop/Retezec/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/janik/Desktop/Retezec/cmake-build-debug/CMakeFiles/rebuild_cache.dir

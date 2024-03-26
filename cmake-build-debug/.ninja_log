@@ -1,0 +1,9 @@
+# ninja log v5
+1	123	7325938613994949	build.ninja	d0686d5ed0b9388
+6	58	7324957449467422	CMakeFiles/Retezec.dir/retezec.cpp.obj	2e3db39e58d3548f
+2	268	7324957451556140	CMakeFiles/Retezec.dir/main.cpp.obj	c0c7be21439d5f27
+268	335	7324957452198036	Retezec.exe	338be3ef47a9c347
+3	243	7331706502090080	CMakeFiles/Retezec.dir/retezec.cpp.obj	2e3db39e58d3548f
+244	484	7331706504468272	Retezec.exe	338be3ef47a9c347
+2	53	7331708054210667	CMakeFiles/Retezec.dir/retezec.cpp.obj	2e3db39e58d3548f
+53	183	7331708055488355	Retezec.exe	338be3ef47a9c347
